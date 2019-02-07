@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Percakapan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Bicara posisi="kiri" frame="0">
+		<Nama>Gisel</Nama>
+		<Berkata>Ra, sebentar lagi kan ada ujian nasional. Kamu sudah siap belum?</Berkata>
+	</Bicara>
+	<Bicara posisi="kanan" frame="2">
+		<Nama>Tiara</Nama>
+		<Berkata>Ya siap tidak siap harus siap. Kita jalani saja.</Berkata>
+	</Bicara>
+	<Bicara posisi="kiri" frame="0">
+		<Nama>Gisel</Nama>
+		<Berkata>Aku takut kalau nanti tidak bisa jawab.</Berkata>
+	</Bicara>
+	<Bicara posisi="kanan" frame="2">
+		<Nama>Tiara</Nama>
+		<Berkata>Makanya kita persiapkan dari sekarang.</Berkata>
+	</Bicara>
+	<Bicara posisi="kiri" frame="0">
+		<Nama>Gisel</Nama>
+		<Berkata>Kalau belajar sih sudah. Aku sudah banyak berlatih soal.</Berkata>
+	</Bicara>
+	<Bicara posisi="kanan" frame="2">
+		<Nama>Tiara</Nama>
+		<Berkata>Tidak cuma belajar saja, tapi juga persiapan mental. Kamu harus percaya diri menghadapi ujian nasional.</Berkata>
+	</Bicara>
+	<Bicara posisi="kiri" frame="0">
+		<Nama>Gisel</Nama>
+		<Berkata>Iya sih. Tapi gimana kalau soalnya susah?</Berkata>
+	</Bicara>
+	<Bicara posisi="kanan" frame="2">
+		<Nama>Tiara</Nama>
+		<Berkata>Yang penting kita usaha dulu. Kita berdoa agar kita bisa mengerjakan semua soal ujian nasional.</Berkata>
+	</Bicara>
+	<Bicara posisi="kiri" frame="0">
+		<Nama>Gisel</Nama>
+		<Berkata>Semoga saja begitu.</Berkata>
+	</Bicara>
+</Percakapan>
